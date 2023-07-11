@@ -23,6 +23,6 @@ void loop() {
   // generate a random number from 0 to the number read 
   randNumber = random(readNumber);
   //write the result via Serial for LabVIEW
-  Serial.println (randNumber);
+  Serial.println(1);
   delay(250);
 }

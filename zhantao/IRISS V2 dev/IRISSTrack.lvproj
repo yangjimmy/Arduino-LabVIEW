@@ -3390,6 +3390,8 @@ AddOutputFilter chunkFilter
 					<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 					<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				</Item>
+				<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+				<Item Name="KevLib01.lvlib" Type="Library" URL="../Library/KevinLibraryAll/labview/KevLib01.lvlib"/>
 			</Item>
 			<Item Name="Build Specifications" Type="Build">
 				<Item Name="FPGADAboard" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
@@ -5769,6 +5771,8 @@ AddOutputFilter chunkFilter
 						<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 						<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 					</Item>
+					<Item Name="KevLib01.lvlib" Type="Library" URL="../Library/KevinLibraryAll/labview/KevLib01.lvlib"/>
+					<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="IRISS_FPGA_IO_RIO" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">

@@ -1,0 +1,4 @@
+- spherical Lissajous curve
+- a = 3
+- L2 control inputs saturate (>10), around 20
+- 3-4 iteration

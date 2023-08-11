@@ -1,0 +1,2 @@
+- no velocity profile, but started at the peak of the sine wave (lower velocity part)
+- the sigmoid velocity profile will create discontinuity in the acceleration profile

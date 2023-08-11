@@ -1,0 +1,4 @@
+Use a function in PXI to record data -> sampling time better
+sampling frequency = 1kHz
+Dwell time = 4 s
+Step size = 2

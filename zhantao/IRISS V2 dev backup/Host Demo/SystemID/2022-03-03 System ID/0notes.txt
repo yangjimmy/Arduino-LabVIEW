@@ -1,0 +1,4 @@
+2022-03-03 IRISS V2 system ID
+- step command with 2 [deg/mm]
+- joint 3 has more data because didn't end it
+- the time frame is ~12 seconds

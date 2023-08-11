@@ -1,0 +1,2 @@
+The sampling rate is 1e-2
+Even if we tried to increase the priority, we still cannot record the data in real-time and with accurate sampling rate

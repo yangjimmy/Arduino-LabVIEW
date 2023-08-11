@@ -1,0 +1,39 @@
+A: initial position [20 deg, 0 deg, 10 mm]
+1: joint 3 motion ID, step size 0.75, dwell time 2 sec (adding up)
+2: joint 3 motion ID, step size 0.75, dwell time 2 sec
+3: joint 2 motion ID, step size 1.5, dwell time 2 sec (adding up)
+4: joint 2 motion ID, step size 1.5, dwell time 2 sec
+5: joint 1 motion ID, step size 3, dwell time 2 sec (start from middle)
+6: joint 1 motion ID, step size 3, dwell time 2 sec
+
+B: initial position [0 deg, 20 deg, 10 mm]
+1: joint 3 motion ID, step size 0.75, dwell time 2 sec (adding up)
+2: joint 3 motion ID, step size 0.75, dwell time 2 sec
+3: joint 2 motion ID, step size 1.5, dwell time 2 sec (adding up)
+4: joint 2 motion ID, step size 1.5, dwell time 2 sec
+5: joint 1 motion ID, step size 3, dwell time 2 sec (start from middle)
+6: joint 1 motion ID, step size 3, dwell time 2 sec
+
+C: initial position [0 deg, -20 deg, 10 mm]
+1: joint 3 motion ID, step size 0.75, dwell time 2 sec (adding up)
+2: joint 3 motion ID, step size 0.75, dwell time 2 sec
+3: joint 2 motion ID, step size 1.5, dwell time 2 sec (adding up)
+4: joint 2 motion ID, step size 1.5, dwell time 2 sec
+5: joint 1 motion ID, step size 3, dwell time 2 sec (start from middle)
+6: joint 1 motion ID, step size 3, dwell time 2 sec
+
+D: initial position [40 deg, -20 deg, 10 mm]
+1: joint 3 motion ID, step size 0.75, dwell time 2 sec (adding up)
+2: joint 3 motion ID, step size 0.75, dwell time 2 sec
+3: joint 2 motion ID, step size 1.5, dwell time 2 sec (adding up)
+4: joint 2 motion ID, step size 1.5, dwell time 2 sec
+5: joint 1 motion ID, step size 3, dwell time 2 sec (start from middle)
+6: joint 1 motion ID, step size 3, dwell time 2 sec
+
+E: initial position [40 deg, 20 deg, 10 mm]
+1: joint 3 motion ID, step size 0.75, dwell time 2 sec (adding up)
+2: joint 3 motion ID, step size 0.75, dwell time 2 sec
+3: joint 2 motion ID, step size 1.5, dwell time 2 sec (adding up)
+4: joint 2 motion ID, step size 1.5, dwell time 2 sec
+5: joint 1 motion ID, step size 3, dwell time 2 sec (start from middle)
+6: joint 1 motion ID, step size 3, dwell time 2 sec

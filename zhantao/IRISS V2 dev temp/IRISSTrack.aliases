@@ -1,0 +1,15 @@
+[My Computer]
+My Computer = "10.144.200.0"
+
+[NI-myRIO-1900-0306398c]
+NI-myRIO-1900-0306398c = "172.22.11.2"
+
+[NI-myRIO-IRISS]
+NI-myRIO-IRISS = "172.22.11.2"
+
+[PXI-Robot]
+PXI-Robot = "10.47.79.184"
+
+[RT myRIO Target]
+RT myRIO Target = "0.0.0.0"
+

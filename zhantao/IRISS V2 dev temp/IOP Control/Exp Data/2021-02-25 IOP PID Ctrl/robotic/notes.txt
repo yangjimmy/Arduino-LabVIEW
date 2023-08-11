@@ -1,0 +1,9 @@
+data 1:
+60 cm H2O bottle height
+[kp,kd,ki] = [5,0,5]
+
+data 2:
+52 cm H2O bottle height
+[kp,kd,ki] = [1.25,0,5]
+
+

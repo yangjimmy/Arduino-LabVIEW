@@ -1,0 +1,14 @@
+data 1-3:
+target IOP = 30
+50 cm H2O bottle height
+[kp,kd,ki] = [1.25,0,5]
+
+data 4:
+target IOP = 30
+62 cm H2O bottle height
+[kp,kd,ki] = [1.25,0,5]
+
+data 5-8:
+target IOP = 30
+64 cm H2O bottle height
+[kp,kd,ki] = [2.5,0,10]

@@ -1,0 +1,6 @@
+2021-08-25 MJG 
+This is the main LV VI And Matlab code to build a 
+model of the anatomy, plot that model, and use it to 
+generate a lens-extraction trajectory with Martin's code.
+The VI is meant to be run by itself, before Martin's code. 
+Once it's done, then Martin's code can be run to gen. the traj.

@@ -1,0 +1,2 @@
+- with the velocity profile, but the acceleration profile was not desirable. there are still jerks in it.
+- this is with sigmoid velocity profile

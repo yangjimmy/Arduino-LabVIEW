@@ -1,0 +1,59 @@
+data 1:
+target IOP = 35
+port side
+63 cm H2O bottle height
+[kp,kd,ki] = [5,0,5]
+
+data 2-3:
+target IOP = 35
+port side
+61 cm H2O bottle height
+[kp,kd,ki] = [5,0,5]
+
+data 4:
+target IOP = 35
+port down
+61 cm H2O bottle height
+[kp,kd,ki] = [5,0,5]
+
+data 5:
+target IOP = 35
+port up
+61 cm H2O bottle height
+[kp,kd,ki] = [5,0,5]
+
+data 6:
+freehand
+61 cm H2O bottle height
+[kp,kd,ki] = [5,0,5]
+
+data 7:
+target IOP = 35
+port up
+61 cm H2O bottle height
+[kp,kd,ki] = [5,0,5]
+
+data 8:
+target IOP = 40
+port up, no visco
+65 cm H2O bottle height
+[kp,kd,ki] = [5,0,5]
+
+data 9:
+port up, no visco
+60 cm H2O bottle height
+[kp,kd,ki] = [1,0,1]
+
+data 10:
+port up, no visco
+60 cm H2O bottle height
+[kp,kd,ki] = [1,0,5]
+
+Remarks
+1. sensor on top, and the opening faces downward if it's of bevel tip
+   tool at the bottom, and port faces upwards emulating polishing confiuration
+2. if the anterior chamber is filled with visco, the response will be slow,
+   and the controller gains need to be high (espeicially kp)
+   recommended gains:
+	a. no visco: kp = 1, kd = 0, ki = 5;
+	b. with visco: kp = 5, kd = 0, ki = 5;

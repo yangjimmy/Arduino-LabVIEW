@@ -1,0 +1,6 @@
+- change the Lissajous trajectory to spherical Lissajous
+- higher frequency (a=4)
+- assigned velocity profile to the start and end
+- velocity profile was sigmoid
+- L2 control input saturated in every iteration
+- iteration 3 and 4 are the best, it diverges afterwards

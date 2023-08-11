@@ -1,0 +1,40 @@
+data 1:
+no visco
+65 cm H2O bottle height
+[kp,kd,ki] = [1,0,5]
+
+data 2:
+no visco
+65 cm H2O bottle height
+[kp,kd,ki] = [1,0,5]
+
+data 3:
+no visco
+65 cm H2O bottle height
+[kp,kd,ki] = [0.5,0,5]
+
+data 3:
+no visco
+65 cm H2O bottle height
+[kp,kd,ki] = [1,0,5]
+
+data 4:
+no visco
+65 cm H2O bottle height
+[kp,kd,ki] = [1,0,5]
+
+
+data 5-7:
+no visco
+65 cm H2O bottle height
+[kp,kd,ki] = [1,0,5]
+
+data 8:
+no visco
+56 cm H2O bottle height
+[kp,kd,ki] = [0.5,0,5]
+
+data 9:
+no visco
+56 cm H2O bottle height
+[kp,kd,ki] = [0.25,0,3]

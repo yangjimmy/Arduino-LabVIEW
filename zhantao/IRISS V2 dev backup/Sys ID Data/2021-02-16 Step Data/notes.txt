@@ -1,0 +1,11 @@
+Remark: re-align initial value
+1: joint 1 motion ID, step size 2 deg, dwell time 1 sec
+2: joint 1 motion ID, step size 3 deg, dwell time 1 sec
+3: joint 1 motion ID, step size 3 deg, dwell time 2 sec
+4: joint 1 motion ID, step size 3 deg, dwell time 2 sec
+
+5: joint 2 motion ID, step size 1.5 deg, dwell time 2 sec
+6: joint 2 motion ID, step size 1.5 deg, dwell time 2 sec
+
+7: joint 3 motion ID, step size 0.75 deg, dwell time 2 sec
+8: joint 3 motion ID, step size 0.75 deg, dwell time 2 sec

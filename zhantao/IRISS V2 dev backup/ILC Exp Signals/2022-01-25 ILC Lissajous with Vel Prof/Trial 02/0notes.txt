@@ -1,0 +1,4 @@
+- assign velocity profile to both x and y directions
+- a = 3 (slower velocity profile)
+- L2 good ILC convergence, might be a good one to show comparison without velocity profile
+- velocity profile was sigmoid

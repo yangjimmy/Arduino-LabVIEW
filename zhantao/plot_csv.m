@@ -209,13 +209,28 @@ t_f = Array(10:end, end);
 %%
 figure()
 hold on
-plot(col1_f)
+plot(t_f,col1_f)
 %plot(t,col2)
 % hold off
 % figure()
 % hold on
-plot(col1)
+plot(t,col1)
 legend("filtered", "not filtered")
-
+xlabel("Time elapsed (s)");
+ylabel("Angle (deg)");
 hold off
 
+%%
+Array=csvread('read_data_abs_sending.csv');
+col1 = Array(10:end, 1);
+col2 = Array(10:end, 2);
+col3 = Array(10:end, 3);
+
+t = Array(10:end, end);
+%%
+figure()
+hold on
+plot(t,col3)
+xlabel("Time elapsed (s)");
+ylabel("mm");
+hold off

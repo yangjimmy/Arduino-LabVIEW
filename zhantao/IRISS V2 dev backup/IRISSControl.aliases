@@ -1,0 +1,24 @@
+[My Computer]
+My Computer = "192.168.0.105"
+
+[myRIO]
+myRIO = "0.0.0.0"
+
+[Networked Computer/Device]
+Networked Computer/Device = "192.168.0.101"
+
+[NI-EVS1460-C9B91AF0]
+NI-EVS1460-C9B91AF0 = "192.168.0.102"
+
+[NI-myRIO-1900-0306270a]
+NI-myRIO-1900-0306270a = "172.22.11.2"
+
+[NI-myRIO-IRISS]
+NI-myRIO-IRISS = "172.22.11.2"
+
+[PXI-Robot]
+PXI-Robot = "192.168.0.101"
+
+[RT PXI Target]
+RT PXI Target = "0.0.0.0"
+
